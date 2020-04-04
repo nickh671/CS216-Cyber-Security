@@ -1,0 +1,10 @@
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\bin\Debug\HydraPop.exe.config
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\bin\Debug\HydraPop.exe
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\bin\Debug\HydraPop.pdb
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.csprojResolveAssemblyReference.cache
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.Form1.resources
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.Properties.Resources.resources
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.csproj.GenerateResource.Cache
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.csproj.CoreCompileInputs.cache
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.exe
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\HydraPop\obj\Debug\HydraPop.pdb

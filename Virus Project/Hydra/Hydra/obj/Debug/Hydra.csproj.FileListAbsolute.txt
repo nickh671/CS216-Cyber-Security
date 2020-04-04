@@ -1,0 +1,7 @@
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\bin\Debug\Hydra.exe.config
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\bin\Debug\Hydra.exe
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\bin\Debug\Hydra.pdb
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\obj\Debug\Hydra.csprojResolveAssemblyReference.cache
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\obj\Debug\Hydra.exe
+D:\Git Repos\CS216 Cyber Security\Virus Project\Hydra\Hydra\obj\Debug\Hydra.pdb
