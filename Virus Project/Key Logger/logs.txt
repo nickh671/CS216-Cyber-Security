@@ -1,0 +1,1 @@
+[<Key.shift_r: <161>>, <Key.shift_r: <161>>, 'P', 'l', 'e', 'a', 's'] ['t', 'e', 'l', 'l'] ['m', 'y', <Key.backspace: <8>>, 'e'] ['m', 'y'] ['b', 'd', 'a', 'y'] ['g', 'i', 'f', 't'] 
